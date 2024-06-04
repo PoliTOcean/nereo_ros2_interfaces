@@ -1,1 +1,1 @@
-uint16[8] thruster_pwms
+uint16[8] thrusters_pwms

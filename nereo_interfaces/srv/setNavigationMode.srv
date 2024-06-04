@@ -1,4 +1,4 @@
-uint8 mode
+uint8 navigation_mode
 ---
 bool success
 uint8 mode_after_set
