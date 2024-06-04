@@ -15,11 +15,11 @@ find_package(std_msgs REQUIRED)
 find_package(trajectory_msgs REQUIRED)
 
 set(msg_files
-  msg/thrusterStatus.msg
+  msg/ThrusterStatus.msg
 )
 
 set(srv_files
-  srv/setNavigationMode.srv
+  srv/SetNavigationMode.srv
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
